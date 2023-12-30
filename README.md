@@ -28,3 +28,8 @@ Run `make run` in your terminal to start the app.
 - [Lipgloss](https://github.com/charmbracelet/lipgloss)
 - [Urfave/cli](https://github.com/urfave/cli/v2)
 - [Clipboard](https://github.com/atotto/clipboard)
+
+## Inspired by
+- [CHMOD-CLI](https://github.com/Mayowa-Ojo/chmod-cli/tree/main)
+- [Bubble Tea Basics Tutorial](https://github.com/charmbracelet/bubbletea/tree/master/tutorials/basics)
+- [Lipgloss Tutorial](https://github.com/charmbracelet/lipgloss/blob/master/README.md)
