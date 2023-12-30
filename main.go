@@ -100,7 +100,7 @@ func (m model) View() string {
         s += fmt.Sprintf("%s %s\n", cursor, choice)
     }
 	// The footer
-	s += "\nPress q to quit.\n"
+	s += "\nPress q or ctrl+C to quit.\n"
 
 	// Send the UI for rendering
     return style.Render(s)
